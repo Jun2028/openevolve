@@ -15,6 +15,7 @@ M = 1_000_000
 OPENAI_EMBEDDING_MODELS = [
     "text-embedding-3-small",
     "text-embedding-3-large",
+    "BAAI/bge-m3"
 ]
 
 AZURE_EMBEDDING_MODELS = [
