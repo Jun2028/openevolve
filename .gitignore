@@ -54,3 +54,6 @@ htmlcov/
 # For SR
 secrets.yaml
 problems
+fun_min.sh
+.gitignore
+lyapunov.sh
